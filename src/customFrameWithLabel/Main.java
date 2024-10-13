@@ -1,4 +1,4 @@
-package second;
+package customFrameWithLabel;
 
 import javax.swing.*;
 import javax.swing.border.Border;
